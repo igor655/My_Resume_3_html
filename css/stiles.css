@@ -5,11 +5,11 @@
 }
 
 body {
-  background: rgb(129, 129, 219);
+  background: rgb(181, 209, 189);
   font-family: "Poppins" sans-serif;
 }
 .photo_container {
-  background-color: rgb(210, 207, 160);
+  background-color: rgb(236, 235, 228);
   margin-bottom: 20px;
   padding: 10px 10px;
 }
@@ -21,7 +21,7 @@ body {
 .about_me_container{
     margin: 30px 0px;
     padding: 10px 10px;
-    background-color: rgb(178, 206, 218) ;
+    background-color: rgb(174, 178, 180) ;
 }
 .about_me_container p{
 color: brown;
